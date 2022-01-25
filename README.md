@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alita77.
+- 👋 Hi, I’m @Amanda Coimbra.
 - 👀 I’m interested in  programação e tudo que envolva tecnologia.
 - 🌱 I’m currently learning  programação.
 - 💞️ I’m looking to collaborate compartilhando códigos e projetos funcionais.
